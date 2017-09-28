@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "HELLO CODE!"
-date:   2017-09-28 04:12:47 +0000
+date:   2017-09-28 00:12:48 -0400
 ---
 
 
 
-With a rabbinnical ordiantion in hand, a certified scribe, and exploring chaplaincy. Married with 2 kids, a friend introduced me to the world of code.
+
+With a rabbinical ordination in hand, a certified scribe, and exploring chaplaincy. Married with 2 kids, a friend introduced me to the world of code.
 
 So much to learn, explore and discover, every new step in coding is a fascinating new path of opportunities. To gain and to give, growing and advancing the world into a better place for all humanity.
 
