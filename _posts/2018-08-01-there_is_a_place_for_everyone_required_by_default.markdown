@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " There is a place for everyone  "required by default""
-date:       2018-08-01 17:25:06 +0000
+date:       2018-08-01 13:25:07 -0400
 permalink:  there_is_a_place_for_everyone_required_by_default
 ---
 
