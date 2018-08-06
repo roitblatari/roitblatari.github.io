@@ -11,8 +11,7 @@ As the trees are get filled with fresh green leaves and the warm winds of summer
 Trying to connect three that don’t know each other: Employer, Employee and Job, felt like making new friends and connecting to new people, but this time it’s behind the screen, creating a network so that Employer, Employee and Job can all be connected. 
 
 <a href="https://imgur.com/wGL2Ats"><img src="https://i.imgur.com/wGL2Ats.jpg" title="source: imgur.com" /></a>
-![Imgur](https://i.imgur.com/wGL2Ats.jpg)
-![](https://i.imgur.com/TMGaVqc.png)
+
 
 Being that Rails 5 makes belongs_to association required by default, my challenge now was to create a job without it having to be associated to an employee. 
 
