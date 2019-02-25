@@ -8,7 +8,7 @@ permalink:  excuse_me_your_name_again
 
 Have you ever gone to a meetup and get Introduced to someone?
  You make a mental note of the persons name and go on to have a great conversation. Ten minutes later you find yourself talking to another two people and then six more.
- ![](https://pixabay.com/images/id-835427/)
+ ![](https://cdn.pixabay.com/photo/2015/07/08/06/54/group-835427_1280.jpg)
 Soon you realize that the first contact this evening, is the one that you have the best chances of developing promising partnership with. The venue is buzzing with people mingling and you’re trying to find him, but - Oh no, you forgot his name!
 :-( If only I was a computer this would not have happened. I mean that’s only until I tried making my a Rails/JavaScript application.
 If I can only get the front-end part of my app to remember who is the current user. 
