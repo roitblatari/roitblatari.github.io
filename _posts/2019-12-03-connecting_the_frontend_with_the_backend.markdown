@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      " Connecting frontend to backend "
+title:      " Connecting Frontend to Backend "
 date:       2019-12-03 12:20:24 -0500
 permalink:  connecting_the_frontend_with_the_backend
 ---
