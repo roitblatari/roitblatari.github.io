@@ -50,7 +50,7 @@ end
 ```
 
 Since Rails was already using "localhost:3000", when running “npm start” the React frontend would use a different port at every attempt (and not `'localhost:3001'`), which prevented my frontend to access the backend API. 
-> That is when I discovered that in the 'package.json' file there is a block with a key of “scripts”, where I can write a key "start" with a value of “PORT=3001 react-scripts start“ to keep the React server always at 'localhost:3001'
+That is when I discovered that in the 'package.json' file there is a block with a key of “scripts”, where I can write a key "start" with a value of “PORT=3001 react-scripts start“ to keep the React server always at 'localhost:3001'
 
 
 ```
