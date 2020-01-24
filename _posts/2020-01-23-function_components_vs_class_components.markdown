@@ -21,7 +21,7 @@ function Welcome(props) {
 
 As you can see in the above example, functional components are basically JavaScript functions. They can accept props as an argument, and use JSX to parse JavaScript expressions. For example {props.name}.
 
-## Class Components
+**Class Components**
 
 On the other hand, Class Components have more functionality that they inherit from React's Component class. Here's the same example as above using a Class Component:
 
@@ -35,7 +35,7 @@ class Welcome extends React.Component {
 
 At a glance, it is obvious that a Class Component has more code to it than a Function Component. However, the render method is not optional in the Class Component. And this is just a simple presentational component. But let's have a look at what we gain. 
 
-## State keeping track of things
+**State keeping track of things**
 
 Props give us the ability to pass down from a parent component to a child component. So, how can we pass back up information from a child to a parent, or simply change a value in the very same component? Here is where state comes to the rescue.
 
