@@ -6,8 +6,8 @@ permalink:  function_components_vs_class_components
 ---
 
 
+**Function Components**
 
-** Function Components **
 
 Functional components are essentially JavaScript (or ES6) functions that  return a React element. Here is an example from the documentation:
 
